@@ -1,5 +1,5 @@
 # Description
-This Python program uses Yahoo Finance API to analyze a random set of stock tickers from NASDAQ stock exchange, based on their beta, market cap, ESG score, earnings surprise, and sector classification. The program will determine whether to buy, sell, or hold each stock based on the analysis.
+This program uses Yahoo Finance API to analyze a random set of stock tickers from NASDAQ stock exchange, based on their beta, market cap, ESG score, earnings surprise, and sector classification. The program will determine whether to buy, sell, or hold each stock based on the analysis.
 
 ## Requirements
 - Python 3.6 or later
